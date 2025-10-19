@@ -25,7 +25,7 @@ This script assembles a working Windsurf installation for ARM64 Linux by combini
 
 ```bash
 # 1. Clone this repository
-git clone https://github.com/YOUR_USERNAME/windsurf-arm-builder
+git clone https://github.com/zadok7/windsurf-arm-builder
 cd windsurf-arm-builder
 
 # 2. Run the installer
